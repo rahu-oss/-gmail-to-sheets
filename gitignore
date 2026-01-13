@@ -1,0 +1,16 @@
+# Ignore Google OAuth credentials and tokens
+credentials/
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
