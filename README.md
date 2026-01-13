@@ -1,4 +1,5 @@
 # Gmail to Google Sheets Automation System
+**Author:** Rahul Kumar 
 
 ## High-Level Architecture Diagram
 (User can include a hand-drawn diagram showing: Gmail -> Python Script -> Google Sheets)
